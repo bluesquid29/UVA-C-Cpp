@@ -1,1 +1,7 @@
 # Test
+## Hello world, this is type in neovim.
+
+
+In the **normal mode**
+
+type :w to save the file
