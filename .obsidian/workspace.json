@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPE_2_star/967-Circular/967.md",
+                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "967"
+              "title": "10014"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPE_2_star/967-Circular/967.md",
+                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 967"
+              "title": "Backlinks for 10014"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPE_2_star/967-Circular/967.md",
+                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 967"
+              "title": "Outgoing links from 10014"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPE_2_star/967-Circular/967.md",
+                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 967"
+              "title": "Outline of 10014"
             }
           }
         ],
@@ -183,9 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "3309bdbf2810f9c5",
+  "active": "275ad68fb413e062",
   "lastOpenFiles": [
-    "CPE_2_star/10014-Simple_Calculations",
-    "CPE_2_star/967-Circular/967.md"
+    "CPE_2_star/10014-Simple_Calculations/10014.cpp",
+    "CPE_2_star/10014-Simple_Calculations/10014.jpg",
+    "CPE_2_star/10014-Simple_Calculations/10014.md",
+    "CPE_2_star/967-Circular/967.md",
+    "README.md",
+    "CPE_2_star/10014-Simple_Calculations"
   ]
 }
