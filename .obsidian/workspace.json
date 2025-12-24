@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "275ad68fb413e062",
+            "id": "f20c79bd700e7d24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
+                "file": "CPE_2_star/967-Circular/967.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10014"
+              "title": "Backlinks for 967"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
+                "file": "CPE_2_star/967-Circular/967.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10014"
+              "title": "Outgoing links from 967"
             }
           },
           {
@@ -183,12 +183,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "275ad68fb413e062",
+  "active": "f20c79bd700e7d24",
   "lastOpenFiles": [
     "CPE_2_star/10014-Simple_Calculations/10014.jpg",
     "CPE_2_star/10014-Simple_Calculations/10014.md",
-    "CPE_2_star/10014-Simple_Calculations/10014.cpp",
+    "Uncategorized/13204-Count_these_Permutations/13204.md",
+    "Uncategorized/13204-Count_these_Permutations/13204.png",
+    "Uncategorized/13204.cpp",
+    "CPE_0(no)_star",
+    "CPE_0_star/11799-Horror_Dash/11799.md",
+    "Uncategorized/13204-Count_these_Permutations",
+    "CPE_2_star/967_Circular/967-1.cpp",
+    "CPE_2_star/967_Circular",
+    "Uncategorized",
+    "CPE_0_star/11799-Horror_Dash",
+    "CPE_0(no)_star/11799.cpp",
     "CPE_2_star/967-Circular/967.md",
+    "CPE_2_star/10014-Simple_Calculations/10014.cpp",
     "README.md",
     "CPE_2_star/10014-Simple_Calculations"
   ]

@@ -23,8 +23,6 @@ int main()
             scanf("%lf", &c);
             sum_value += (n - i + 1) * c;
         }
-        
-        
         double a_1 = (n * a_0 + a_n_plus_1 - 2 * sum_value) / (n + 1);
         
         printf("%.2lf\n", a_1);
