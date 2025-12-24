@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPE_2_star/967_Circular/967.md",
+                "file": "CPE_2_star/967-Circular/967.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPE_2_star/967_Circular/967.md",
+                "file": "CPE_2_star/967-Circular/967.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPE_2_star/967_Circular/967.md",
+                "file": "CPE_2_star/967-Circular/967.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPE_2_star/967_Circular/967.md",
+                "file": "CPE_2_star/967-Circular/967.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "275ad68fb413e062",
+  "active": "3309bdbf2810f9c5",
   "lastOpenFiles": [
-    "CPE_2_star/967_Circular/967.md"
+    "CPE_2_star/10014-Simple_Calculations",
+    "CPE_2_star/967-Circular/967.md"
   ]
 }
