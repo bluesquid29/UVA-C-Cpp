@@ -1,16 +1,14 @@
 #include <cstdio>
+#include <cstring>
 
-#define MAX 10001
+#define MAX 101
 
-int prime[MAX];
+bool prime[MAX];
 
 void sieve()
 {
     // Initialize: assume all are prime
-    for (int i = 0; i < MAX; i++)  
-    {
-        prime[i] = true;
-    }
+    memset(prime, true, sizeof(prime));
 
     prime[0] = false;
     prime[1] = false;
@@ -38,7 +36,6 @@ int main()
             printf("%d\n", i); 
         }
     }
-    printf("\n"); 
-    
+
     return 0;
 }
