@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
+                "file": "Uncategorized/13204-Count_these_Permutations/13204.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10014"
+              "title": "13204"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
+                "file": "Uncategorized/13204-Count_these_Permutations/13204.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10014"
+              "title": "Outline of 13204"
             }
           }
         ],
@@ -185,8 +185,9 @@
   },
   "active": "f20c79bd700e7d24",
   "lastOpenFiles": [
-    "CPE_2_star/10014-Simple_Calculations/10014.jpg",
+    "Uncategorized/13204-Count_these_Permutations/13204.cpp",
     "CPE_2_star/10014-Simple_Calculations/10014.md",
+    "CPE_2_star/10014-Simple_Calculations/10014.jpg",
     "Uncategorized/13204-Count_these_Permutations/13204.md",
     "Uncategorized/13204-Count_these_Permutations/13204.png",
     "Uncategorized/13204.cpp",
