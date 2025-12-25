@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uncategorized/483-Word_Scramble/483.md",
+                "file": "CPE_1_star/others/706-LCD_Display/706.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "483"
+              "title": "706"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uncategorized/483-Word_Scramble/483.md",
+                "file": "CPE_1_star/others/706-LCD_Display/706.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 483"
+              "title": "Outline of 706"
             }
           }
         ],
@@ -185,24 +185,24 @@
   },
   "active": "f20c79bd700e7d24",
   "lastOpenFiles": [
-    "Uncategorized/483-Word_Scramble/483.c",
-    "Uncategorized/483-Word_Scramble/483.cpp",
-    "Uncategorized/13204-Count_these_Permutations/13204.md",
-    "Uncategorized/483-Word_Scramble/483.md",
-    "CPE_2_star/967-Circular/967.md",
     "CPE_0_star/11799-Horror_Dash/11799.md",
+    "CPE_1_star/others/706-LCD_Display/706.md",
+    "CPE_uncategorized/13204-Count_these_Permutations/13204.md",
+    "CPE_1_star/others/706-LCD_Display",
+    "CPE_1_star/others",
+    "CPE_1_star/49_collections",
+    "CPE_1_star",
+    "CPE_uncategorized/11806-Cheerleaders",
+    "CPE_uncategorized/10690-Expression_Again",
+    "CPE_uncategorized/13204-Count_these_Permutations/13204.png",
+    "CPE_uncategorized/483-Word_Scramble/483.md",
+    "CPE_2_star/967-Circular/967.md",
+    "CPE_uncategorized/483-Word_Scramble/483_(inc-algorithm).cpp",
+    "Uncategorized/483-Word_Scramble/483_(#algorithm).cpp",
+    "CPE_uncategorized/483-Word_Scramble/483.c",
+    "CPE_uncategorized/483-Word_Scramble/483.cpp",
     "CPE_2_star/10014-Simple_Calculations/10014.md",
-    "Uncategorized/483-Word_Scramble",
-    "Uncategorized/13204-Count_these_Permutations/13204.cpp",
     "CPE_2_star/10014-Simple_Calculations/10014.jpg",
-    "Uncategorized/13204-Count_these_Permutations/13204.png",
-    "Uncategorized/13204.cpp",
-    "CPE_0(no)_star",
-    "Uncategorized/13204-Count_these_Permutations",
-    "CPE_2_star/967_Circular/967-1.cpp",
-    "CPE_2_star/967_Circular",
-    "Uncategorized",
-    "CPE_0_star/11799-Horror_Dash",
     "README.md"
   ]
 }

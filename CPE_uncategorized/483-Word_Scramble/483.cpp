@@ -1,27 +1,18 @@
-#include <stdio.h>
-#include <string.h>
+#include <cstdio>
+#include <iostream>
+#include <string>
 
-int main(void)
+int main()
 {
-    char text_line[10000];
-    
-    while (fgets(text_line, sizeof(text_line), stdin))
+    std::string text_line;
+ 
+    while (std::getline(std::cin, text_line))
     {
-        int len = strlen(text_line);
-        
-        // Remove newline if present
-        if (len > 0 && text_line[len - 1] == '\n')
-        {
-            text_line[len - 1] = '\0';
-            len--;
-        }
-        
-        int i;
+        int i; 
         int word_start = 0;
-        
-        for (i = 0; text_line[i] != '\0'; i++)
+        for (i = 0; text_line[i] != '\0'; i++) 
         {
-            if (text_line[i] == ' ')
+            if (text_line[i] == ' ') 
             {
                 for (int j = i - 1; j >= word_start; j--)
                 {
@@ -39,6 +30,6 @@ int main(void)
         }
         putchar('\n');
     }
-    
+ 
     return 0;
 }
