@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
+                "file": "CPE_uncategorized/13204-Count_these_Permutations/13204.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10014"
+              "title": "13204"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
+                "file": "CPE_uncategorized/13204-Count_these_Permutations/13204.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10014"
+              "title": "Outline of 13204"
             }
           }
         ],
@@ -183,25 +183,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "f20c79bd700e7d24",
+  "active": "3309bdbf2810f9c5",
   "lastOpenFiles": [
-    "Untitled.base",
+    "CPE_uncategorized/483-Word_Scramble/483.md",
+    "CPE_2_star/900-Brick_Wall_Patterns/900.md",
+    "CPE_2_star/900-Brick_Wall_Patterns/900.png",
+    "CPE_0_star/11799-Horror_Dash/11799.md",
+    "CPE_2_star/900-Brick_Wall_Patterns",
     "CPE_2_star/10014-Simple_Calculations/10014.md",
+    "Untitled.base",
     "CPE_2_star/967-Circular/967.md",
     "CPE_uncategorized/13204-Count_these_Permutations/13204.md",
     "CPE_uncategorized/13204-Count_these_Permutations/13204.png",
     "CPE_1_star/others/706-LCD_Display/706.md",
-    "CPE_0_star/11799-Horror_Dash/11799.md",
     "CPE_1_star/others/706-LCD_Display",
     "CPE_1_star/others",
     "CPE_1_star/49_collections",
     "CPE_1_star",
     "CPE_uncategorized/11806-Cheerleaders",
     "CPE_uncategorized/10690-Expression_Again",
-    "CPE_uncategorized/483-Word_Scramble/483.md",
     "CPE_uncategorized/483-Word_Scramble/483_(inc-algorithm).cpp",
     "Uncategorized/483-Word_Scramble/483_(#algorithm).cpp",
-    "CPE_uncategorized/483-Word_Scramble/483.c",
     "CPE_2_star/10014-Simple_Calculations/10014.jpg",
     "README.md"
   ]
