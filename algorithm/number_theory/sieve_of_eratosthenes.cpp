@@ -29,7 +29,7 @@ int main()
 {
     sieve();  
     
-    for (int i = 2; i < MAX; i++) 
+    for (int i = 0; i < MAX; i++) 
     {
         if (prime[i])
         {
