@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again!/10276.md",
+                "file": "2025-12-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10276"
+              "title": "2025-12-29"
             }
           }
         ],
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again!/10276.md",
+                "file": "2025-12-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10276"
+              "title": "Outline of 2025-12-29"
             }
           }
         ],
@@ -230,8 +230,13 @@
   },
   "active": "e1d06bf30a7a5cb1",
   "lastOpenFiles": [
-    "Problems/Volume_101/10127-Ones/10127.md",
     "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again!/10276.md",
+    "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again/10276.png",
+    "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again/10276.md",
+    "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again/10276.cpp",
+    "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again",
+    "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again!/10276.cpp",
+    "Problems/Volume_101/10127-Ones/10127.md",
     "Problems/Volume_102/10276.cpp",
     "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again!/10276.png",
     "2025-12-29.md",
@@ -264,10 +269,6 @@
     "0_default/000_readme/Latex Suite Guide.md",
     "0_default/000_readme/How to take a note.md",
     "0_default/003_symbol/Math (typing).md",
-    "0_default/003_symbol/LATEX.md",
-    "0_default/003_symbol/LATEX symbols.pdf",
-    "0_default/appearance.json",
-    "0_default/005_Apps",
     "CPE_2_star/160-Factors_and_Factorials/160.png",
     "CPE_2_star/10666.png",
     "CPE_2_star/900-Brick_Wall_Patterns/900.png",
