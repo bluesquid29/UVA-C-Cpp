@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.fullname.endsWith("md")
+    - file.folder.containsAll("Problems")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - title
+      - cpe_rank
+      - exam_dates
+      - problem_id
+      - status
+      - topics
