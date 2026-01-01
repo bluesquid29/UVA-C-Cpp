@@ -10,6 +10,12 @@ views:
       - title
       - cpe_rank
       - exam_dates
-      - problem_id
-      - status
+      - exam_numbers
+      - solved
       - topics
+    sort:
+      - property: status
+        direction: ASC
+    columnSize:
+      note.title: 144
+      note.status: 77
