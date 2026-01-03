@@ -18,6 +18,7 @@ exam_dates: []
 exam_numbers: []
 topics: []
 solved: 0
-created: <% tp.file.creation_date("YYYY-MM-DD HH:mm") %>
-last_modified: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ---
+# Reference
+
+# 題解
