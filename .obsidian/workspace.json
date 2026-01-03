@@ -105,9 +105,23 @@
               "icon": "lucide-file",
               "title": "UVA_Template.md"
             }
+          },
+          {
+            "id": "cbf2f8698296ff45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Volume_101/10110-Light_more_light/10110.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10110"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -242,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Volume_009/993-Product_of_digits/993.md",
+                "file": "Problems/Volume_101/10110-Light_more_light/10110.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 993"
+              "title": "Outline of 10110"
             }
           }
         ],
@@ -270,17 +284,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a3ed68b3689454ca",
+  "active": "cbf2f8698296ff45",
   "lastOpenFiles": [
-    "Problems/Volume_009/993-Product_of_digits/993.cpp",
-    "0_default/001_templater/UVA_Template.md.md",
     "Problems/Volume_009/993-Product_of_digits/993.md",
+    "Problems/Volume_101/10110-Light_more_light/10110.md",
+    "0_default/001_templater/UVA_Template.md.md",
+    "CPE_properties.base",
+    "Problems/Volume_101/10110-Light_more_light",
+    "Problems/Volume_009/993-Product_of_digits/993(with_STL)",
+    "Problems/Volume_009/993-Product_of_digits/993.cpp",
     "Problems/Volume_009/993-Product_of_digits/993(CPE_official).cpp",
     "Problems/Volume_007/714-Copying_Books/714.md",
     "Problems/Volume_009/993-Product_of_digits",
     "Problems/Volume_009",
     "Problems/Volume_011/1118-Binary_Stirling_Numbers/1118.md",
-    "CPE_properties.base",
     "Problems/Volume_101/10128-Queue/10128.md",
     "Problems/Volume_007/714-Copying_Books",
     "Problems/Volume_007",
@@ -289,12 +306,9 @@
     "Problems/Volume_101/10107-What-is-the-Median",
     "Problems/Volume_106/10666-The_Eurocup_is_Here!/10666.md",
     "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again/10276.md",
-    "Problems/Volume_011/1118-Binary_Stirling_Numbers",
-    "Problems/Volume_011",
     "2025-12-29.md",
     "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again!/10276.md",
     "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again/10276.png",
-    "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again/10276.cpp",
     "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again!/10276.png",
     "Problems/Volume_106/10666-The_Eurocup_is_Here!/10666.png",
     "Problems/Volume_101/Untitled.md",
@@ -311,7 +325,6 @@
     "Untitled.canvas",
     "README.md",
     "0_default/000_readme/Untitled.md",
-    "0_default/000_readme/Latex Suite snippet edit.md",
     "CPE_2_star/160-Factors_and_Factorials/160.png",
     "CPE_2_star/10666.png",
     "CPE_2_star/900-Brick_Wall_Patterns/900.png",
