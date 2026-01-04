@@ -1,0 +1,95 @@
+#include <cstdio>
+#include <cstring>
+#include <cstdlib>
+
+typedef unsigned int uint;
+const uint MX = 5000;
+const uint CARRY = 1000000000;  // 10^9
+
+class BigNum {
+    uint len;      // 有幾個單位
+    uint *num;     // 動態陣列
+    
+public:
+    // 初始化為 n
+    void set(uint n) {
+        if (n < CARRY) {
+            len = 1;
+            num = (uint *)calloc(1, sizeof(uint));
+            num[0] = n;
+        } else {
+            len = 2;
+            num = (uint *)calloc(2, sizeof(uint));
+            num[0] = n % CARRY;  // 低 9 位
+            num[1] = n / CARRY;  // 高位
+        }
+    }
+    
+    // 大數加法：this = a + b
+    void sum(const BigNum &a, const BigNum &b) {
+        // 確保 a 是較長的數
+        const BigNum &longer = (a.len >= b.len) ? a : b;
+        const BigNum &shorter = (a.len >= b.len) ? b : a;
+        
+        len = longer.len;
+        num = (uint *)calloc(len + 1, sizeof(uint));
+        
+        // 複製較長的數
+        memcpy(num, longer.num, len * sizeof(uint));
+        
+        // 加上較短的數的每個單位
+        for (uint i = 0; i < shorter.len; i++) {
+            num[i] += shorter.num[i];
+        }
+        
+        // 處理進位
+        for (uint i = 0; i < len; i++) {
+            if (num[i] >= CARRY) {
+                num[i+1] += num[i] / CARRY;  // 進位
+                num[i] %= CARRY;              // 保留
+            }
+        }
+        
+        // 檢查最高位是否有進位
+        if (num[len] > 0) {
+            len++;
+        }
+    }
+    
+    // 輸出大數
+    void print() const {
+        printf("%u", num[len-1]);  // 最高位不補 0
+        for (int i = len - 2; i >= 0; i--) {
+            printf("%09u", num[i]);  // 其他位補滿 9 位
+        }
+    }
+    
+    // 釋放記憶體（可選）
+    ~BigNum() {
+        if (num != nullptr) {
+            free(num);
+        }
+    }
+} fib[MX+1];
+
+int main() 
+{
+    // 初始化
+    fib[0].set(0);
+    fib[1].set(1);
+    
+    // 計算所有費氏數
+    for (int i = 2; i <= MX; i++) {
+        fib[i].sum(fib[i-1], fib[i-2]);
+    }
+    
+    // 讀取並輸出
+    int n;
+    while (scanf("%d", &n) == 1) {
+        printf("The Fibonacci number for %d is ", n);
+        fib[n].print();
+        printf("\n");
+    }
+    
+    return 0;
+}
