@@ -1,13 +1,13 @@
 #include <cstdio>
 
-int f[5001][1051] = {0}; 
+int f[5001][1050] = {0}; 
 
 int main()
 {
 f[1][0] = 1;
 for (int i = 2; i <= 5000; i++) 
 {
-	for (int j = 0; j <= 1050; j++) 
+	for (int j = 0; j < 1050; j++) 
 	{
 		int sum = f[i-1][j] + f[i-2][j] + f[i][j];  
 		f[i][j+1] += sum / 10; // Carry forward                       
@@ -20,7 +20,7 @@ for (int i = 2; i <= 5000; i++)
     {
         printf("The Fibonacci number for %d is ", n);
         int j;
-        for (j = 1050; j >= 0; j--)
+        for (j = 1049; j >= 0; j--)
         {
             if (f[n][j]) // Find the first non-zero digit
             {
