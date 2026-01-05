@@ -24,6 +24,7 @@ solved: 0
 - cpe 日期
 - zero
 - uvapdf
+- vjudge
 
 # 題解
 
