@@ -14,6 +14,10 @@ views:
       - solved
       - topics
     sort:
+      - property: exam_dates
+        direction: ASC
+      - property: exam_numbers
+        direction: ASC
       - property: status
         direction: ASC
     columnSize:

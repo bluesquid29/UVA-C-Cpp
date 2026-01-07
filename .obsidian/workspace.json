@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "633be54f6ffd1c72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/Volume_101/10127-Ones/10127.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10127"
-            }
-          },
-          {
-            "id": "4edd2a86d93bfc1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/Volume_106/10666-The_Eurocup_is_Here!/10666.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10666"
-            }
-          },
-          {
-            "id": "edb5174b4f7dbdc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/Volume_101/10107-What-is-the-Median/10107.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10107"
-            }
-          },
-          {
             "id": "e1d06bf30a7a5cb1",
             "type": "leaf",
             "pinned": true,
@@ -65,35 +23,21 @@
             }
           },
           {
-            "id": "f87d19b30bf8ffd8",
+            "id": "8439a94e117410f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Volume_011/1118-Binary_Stirling_Numbers/1118.md",
+                "file": "Problems/Volume_100/10015-Joseph's_Cousin/10015.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1118"
+              "title": "10015"
             }
           },
           {
-            "id": "a3ed68b3689454ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/Volume_004/495-Fibonacci_Freeze/495.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "495"
-            }
-          },
-          {
-            "id": "fb74667b5b4f9336",
+            "id": "06c8f922389e6c7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,35 +51,21 @@
             }
           },
           {
-            "id": "cbf2f8698296ff45",
+            "id": "723b13ff926a1221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-29.md",
+                "file": "Problems/Volume_100/10082-WERTYU/10082.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-29"
-            }
-          },
-          {
-            "id": "f6b9135e7fa3f8b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10014"
+              "title": "10082"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -270,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPE_2_star/10014-Simple_Calculations/10014.md",
+                "file": "Problems/Volume_100/10082-WERTYU/10082.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10014"
+              "title": "Outline of 10082"
             }
           }
         ],
@@ -284,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 239.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,47 +229,49 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f6b9135e7fa3f8b3",
+  "active": "723b13ff926a1221",
   "lastOpenFiles": [
+    "CPE_properties.base",
+    "Problems/Volume_100/10082-WERTYU/10082.md",
+    "CPE_uncategorized/483-Word_Scramble/483.md",
+    "Problems/Volume_100/10082-WERTYU",
+    "2026-01-07.md",
+    "Problems/Volume_001/151-Power_Crisis/151.md",
+    "Problems/Volume_001/151-Power_Crisis/151-1.png",
+    "Problems/Volume_105/10579-Fibonacci_Numbers/10579.cpp",
+    "Problems/151.png",
+    "Problems/Volume_100/10015-Joseph's_Cousin/10015.md",
+    "Problems/Volume_001/151-Power_Crisis",
+    "Problems/Volume_001",
+    "Problems/Volume_106/10664-Luggage/10664.md",
+    "Problems/Volume_100/10015-Joseph's_Cousin",
+    "Problems/Volume_100/10085-The_most_distant_state/10085.md",
+    "Problems/Volume_106/10664-Luggage",
+    "0_default/001_templater/UVA_Template.md.md",
+    "Problems/Volume_002/245-Uncompress/245.md",
+    "Problems/Volume_100/10085-The_most_distant_state",
+    "Problems/Volume_100",
+    "Problems/Volume_105/10579-Fibonacci_Numbers/10579.md",
+    "Problems/Volume_105/10579-Fibonacci_Numbers",
+    "CPE_2_star/10014-Simple_Calculations/10014.md",
     "CPE_2_star/10014-Simple_Calculations/10014.jpg",
     "CPE_2_star/900-Brick_Wall_Patterns/900.md",
     "CPE_2_star/160-Factors_and_Factorials/160.md",
     "CPE_uncategorized/13204-Count_these_Permutations/13204.md",
     "CPE_uncategorized/11806-Cheerleaders/11806.md",
-    "CPE_uncategorized/483-Word_Scramble/483.md",
     "CPE_2_star/967-Circular/967.md",
-    "CPE_2_star/10014-Simple_Calculations/10014.md",
-    "CPE_properties.base",
     "Problems/Volume_004/495-Fibonacci_Freeze/495.md",
-    "Problems/Volume_009/993-Product_of_digits/993(with_STL).cpp",
-    "Problems/Volume_002/245-Uncompress/245.md",
-    "Problems/Volume_002/245-Uncompress/245-(CPE_official).cpp",
     "2025-12-29.md",
     "Untitled.md",
-    "Problems/Volume_002/245-Uncompress/245-(link_list).cpp",
     "Problems/Volume_009/993-Product_of_digits/993.md",
-    "0_default/001_templater/UVA_Template.md.md",
     "README.md",
-    "Problems/Volume_002/245-Uncompress/245-(method_1).c",
-    "Problems/Volume_002/245-Uncompress/245-(C-style).cpp",
-    "Problems/Volume_002/245-Uncompress",
     "Problems/Volume_002/Untitled.md",
-    "Problems/Volume_002",
-    "Problems/Volume_004/495-Fibonacci_Freeze/495-(method_2).cpp",
-    "Problems/Volume_004/495-Fibonacci_Freeze/495-(method_1).cpp",
     "Problems/Volume_101/10110-Light_more_light/10110.md",
     "Problems/Volume_007/714-Copying_Books/714.md",
     "Problems/Volume_011/1118-Binary_Stirling_Numbers/1118.md",
-    "Problems/Volume_101/10128-Queue/10128.md",
-    "Problems/Volume_101/10107-What-is-the-Median/10107.md",
-    "Problems/Volume_101/10127-Ones/10127.md",
-    "Problems/Volume_106/10666-The_Eurocup_is_Here!/10666.md",
-    "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again/10276.md",
-    "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again!/10276.md",
     "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again/10276.png",
     "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again!/10276.png",
     "Problems/Volume_106/10666-The_Eurocup_is_Here!/10666.png",
-    "Problems/Volume_101/Untitled.md",
     "Untitled.canvas",
     "CPE_2_star/160-Factors_and_Factorials/160.png",
     "CPE_2_star/10666.png",
