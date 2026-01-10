@@ -14,9 +14,7 @@ views:
       - solved
       - topics
     sort:
-      - property: exam_dates
-        direction: DESC
-      - property: exam_numbers
+      - property: cpe_rank
         direction: ASC
       - property: status
         direction: ASC
