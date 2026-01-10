@@ -23,7 +23,7 @@ solved: 0
 
 - 舊版本無 CPE 頁面保存
 - zero
-- uvapdf
+- pdf?
 - vjudge
 
 # 題解

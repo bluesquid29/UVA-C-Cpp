@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Volume_100/10015-Joseph's_Cousin/10015.md",
+                "file": "2025-12-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10015"
+              "title": "2025-12-29"
             }
           },
           {
@@ -51,17 +51,17 @@
             }
           },
           {
-            "id": "723b13ff926a1221",
+            "id": "a376e5abf81f1ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Volume_100/10082-WERTYU/10082.md",
+                "file": "Problems/Volume_100/10062-Tell_me_the_frequencies!/10062.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10082"
+              "title": "10062"
             }
           }
         ],
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "舊",
+                "query": "10079",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Volume_100/10082-WERTYU/10082.md",
+                "file": "Problems/Volume_100/10062-Tell_me_the_frequencies!/10062.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10082"
+              "title": "Outline of 10062"
             }
           }
         ],
@@ -214,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,30 +228,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "723b13ff926a1221",
+  "active": "a376e5abf81f1ee6",
   "lastOpenFiles": [
+    "Problems/Volume_100/10062-Tell_me_the_frequencies!/10062-(Method_1).cpp",
+    "0_default/001_templater/UVA_Template.md.md",
+    "Problems/Volume_100/10062-Tell_me_the_frequencies!/10062.md",
+    "Problems/Volume_114/11461-Square_Numbers/11461.md",
+    "Josephus Problem.md",
+    "Problems/Volume_100/10062-Tell_me_the_frequencies!",
     "CPE_properties.base",
-    "Problems/Volume_100/10082-WERTYU/10082.md",
     "CPE_uncategorized/483-Word_Scramble/483.md",
-    "Problems/Volume_100/10082-WERTYU",
+    "Problems/Volume_114/11461-Square_Numbers",
+    "Problems/Volume_114",
+    "Problems/Volume_106/10666-The_Eurocup_is_Here!/main",
+    "Problems/Volume_101/10127-Ones/main",
+    "Problems/Volume_101/10127-Ones/10127",
+    "Problems/Volume_002/245-Uncompress/245-(C-style).cpp",
+    "number_theory/Prime 質數.md",
+    "number_theory/Prime Factor 質因數.md",
+    "2025-12-29.md",
+    "Problems/Volume_122/12250-Language_Detection/12250.md",
     "2026-01-07.md",
+    "Problems/Volume_100/10015-Joseph's_Cousin/10015.md",
+    "Problems/Volume_122/12250-Language_Detection",
+    "Problems/Volume_122",
+    "Problems/Volume_100/10082-WERTYU/10082.md",
     "Problems/Volume_001/151-Power_Crisis/151.md",
     "Problems/Volume_001/151-Power_Crisis/151-1.png",
-    "Problems/Volume_105/10579-Fibonacci_Numbers/10579.cpp",
+    "Problems/Volume_001/151-Power_Crisis/151-2.png",
     "Problems/151.png",
-    "Problems/Volume_100/10015-Joseph's_Cousin/10015.md",
-    "Problems/Volume_001/151-Power_Crisis",
-    "Problems/Volume_001",
     "Problems/Volume_106/10664-Luggage/10664.md",
-    "Problems/Volume_100/10015-Joseph's_Cousin",
     "Problems/Volume_100/10085-The_most_distant_state/10085.md",
-    "Problems/Volume_106/10664-Luggage",
-    "0_default/001_templater/UVA_Template.md.md",
     "Problems/Volume_002/245-Uncompress/245.md",
-    "Problems/Volume_100/10085-The_most_distant_state",
-    "Problems/Volume_100",
     "Problems/Volume_105/10579-Fibonacci_Numbers/10579.md",
-    "Problems/Volume_105/10579-Fibonacci_Numbers",
     "CPE_2_star/10014-Simple_Calculations/10014.md",
     "CPE_2_star/10014-Simple_Calculations/10014.jpg",
     "CPE_2_star/900-Brick_Wall_Patterns/900.md",
@@ -261,21 +269,13 @@
     "CPE_uncategorized/11806-Cheerleaders/11806.md",
     "CPE_2_star/967-Circular/967.md",
     "Problems/Volume_004/495-Fibonacci_Freeze/495.md",
-    "2025-12-29.md",
-    "Untitled.md",
     "Problems/Volume_009/993-Product_of_digits/993.md",
-    "README.md",
-    "Problems/Volume_002/Untitled.md",
-    "Problems/Volume_101/10110-Light_more_light/10110.md",
-    "Problems/Volume_007/714-Copying_Books/714.md",
-    "Problems/Volume_011/1118-Binary_Stirling_Numbers/1118.md",
     "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again/10276.png",
     "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again!/10276.png",
     "Problems/Volume_106/10666-The_Eurocup_is_Here!/10666.png",
     "Untitled.canvas",
     "CPE_2_star/160-Factors_and_Factorials/160.png",
     "CPE_2_star/10666.png",
-    "CPE_2_star/900-Brick_Wall_Patterns/900.png",
-    "CPE_uncategorized/13204-Count_these_Permutations/13204.png"
+    "CPE_2_star/900-Brick_Wall_Patterns/900.png"
   ]
 }

@@ -15,7 +15,7 @@ views:
       - topics
     sort:
       - property: exam_dates
-        direction: ASC
+        direction: DESC
       - property: exam_numbers
         direction: ASC
       - property: status

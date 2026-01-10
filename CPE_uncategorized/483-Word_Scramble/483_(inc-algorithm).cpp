@@ -1,26 +1,27 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
+#include <print>
 
 int main()
 {
-    std::string text_line;
+    std::string s; 
     
-    while (std::getline(std::cin, text_line))
+    while (std::getline(std::cin, s))
     {
-        int len = text_line.length();
+        int len = s.length();
         int word_start = 0;
         
         for (int i = 0; i <= len; i++)
         {
-            if (i == len || text_line[i] == ' ')
+            if (i == len || s[i] == ' ')
             {
-                std::reverse(text_line.begin() + word_start, text_line.begin() + i);
+                std::reverse(s.begin() + word_start, s.begin() + i);
                 word_start = i + 1;
             }
         }
         
-        std::cout << text_line << '\n';
+        std::cout << s << '\n';
     }
     
     return 0;
