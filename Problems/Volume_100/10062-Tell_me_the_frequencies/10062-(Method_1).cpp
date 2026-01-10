@@ -1,16 +1,15 @@
 #include <iostream>  // cin, cout
 #include <string>	 // string, getline
-using namespace std;
 
 int main()
 {
-    string line;
-    bool first_case = true;
+    std::string line;
+    bool first = true;
     
-    while (getline(cin, line))
+    while (std::getline(std::cin, line))
     {   
-        if (!first_case) cout << '\n';
-        first_case = false;
+        if (!first) std::cout << '\n';
+        first = false;
         
         // count the ASCII frequency
         int cnt[129] = {0};
@@ -26,7 +25,7 @@ int main()
         	{
                 if (cnt[ASCII] == i)
         		{
-                    cout << ASCII << ' ' << i << '\n';
+                    std::cout << ASCII << ' ' << i << '\n';
         		}
         	}
         }

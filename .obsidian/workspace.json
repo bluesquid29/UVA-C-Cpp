@@ -54,14 +54,13 @@
             "id": "a376e5abf81f1ee6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Problems/Volume_100/10062-Tell_me_the_frequencies!/10062.md",
-                "mode": "source",
-                "source": false
+                "file": "All.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "10062"
+              "icon": "lucide-table",
+              "title": "All"
             }
           }
         ],
@@ -200,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Volume_100/10062-Tell_me_the_frequencies!/10062.md",
+                "file": "All.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10062"
+              "title": "Outline of All"
             }
           }
         ],
@@ -228,30 +227,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a376e5abf81f1ee6",
+  "active": "3309bdbf2810f9c5",
   "lastOpenFiles": [
+    "UVA Folders.base",
+    "All.base",
+    "Problems/Volume_100/10062-Tell_me_the_frequencies/10062.md",
     "Problems/Volume_100/10062-Tell_me_the_frequencies!/10062-(Method_1).cpp",
-    "0_default/001_templater/UVA_Template.md.md",
-    "Problems/Volume_100/10062-Tell_me_the_frequencies!/10062.md",
-    "Problems/Volume_114/11461-Square_Numbers/11461.md",
-    "Josephus Problem.md",
     "Problems/Volume_100/10062-Tell_me_the_frequencies!",
+    "Problems/Volume_114/11461-Square_Numbers/11461.md",
+    "Problems/Volume_100/10062-Tell_me_the_frequencies/10062-(Method_1).cpp",
+    "0_default/001_templater/UVA_Template.md.md",
+    "Josephus Problem.md",
+    "Problems/Volume_100/10062-Tell_me_the_frequencies",
     "CPE_properties.base",
     "CPE_uncategorized/483-Word_Scramble/483.md",
     "Problems/Volume_114/11461-Square_Numbers",
     "Problems/Volume_114",
     "Problems/Volume_106/10666-The_Eurocup_is_Here!/main",
     "Problems/Volume_101/10127-Ones/main",
-    "Problems/Volume_101/10127-Ones/10127",
-    "Problems/Volume_002/245-Uncompress/245-(C-style).cpp",
     "number_theory/Prime 質數.md",
     "number_theory/Prime Factor 質因數.md",
     "2025-12-29.md",
     "Problems/Volume_122/12250-Language_Detection/12250.md",
     "2026-01-07.md",
     "Problems/Volume_100/10015-Joseph's_Cousin/10015.md",
-    "Problems/Volume_122/12250-Language_Detection",
-    "Problems/Volume_122",
     "Problems/Volume_100/10082-WERTYU/10082.md",
     "Problems/Volume_001/151-Power_Crisis/151.md",
     "Problems/Volume_001/151-Power_Crisis/151-1.png",
