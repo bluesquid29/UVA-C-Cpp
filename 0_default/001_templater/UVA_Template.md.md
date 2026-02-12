@@ -17,6 +17,7 @@ cpe_rank:
 exam_dates: []
 exam_numbers: []
 topics: []
+Ad_Hoc: []
 solved: 0
 ---
 # Reference

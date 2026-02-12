@@ -2,6 +2,7 @@ filters:
   and:
     - file.fullname.endsWith("md")
     - file.folder.containsAll("Problems")
+    - "!title.isEmpty()"
 views:
   - type: table
     name: Table
@@ -12,12 +13,13 @@ views:
       - exam_dates
       - exam_numbers
       - solved
+      - Ad_Hoc
       - topics
     sort:
-      - property: cpe_rank
-        direction: ASC
+      - property: Ad_Hoc
+        direction: DESC
       - property: status
         direction: ASC
     columnSize:
       note.title: 144
-      note.status: 77
+      note.exam_dates: 199
