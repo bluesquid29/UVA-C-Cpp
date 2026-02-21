@@ -51,26 +51,17 @@
             }
           },
           {
-            "id": "a376e5abf81f1ee6",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "All.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "All"
-            }
-          },
-          {
             "id": "179a99dad75e13d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Volume_101/10110-Light_more_light/10110.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10110"
             }
           },
           {
@@ -93,30 +84,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Volume_100/10041-Vitos_Family/10041_PDF.md",
+                "file": "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10041_PDF"
+              "title": "10170"
             }
           },
           {
-            "id": "5c860e9deb6bd63d",
+            "id": "2c1610768eacfb91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Volume_110/11057-Exact_Sum/11057_PDF.md",
+                "file": "Untitled 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11057_PDF"
+              "title": "Untitled 7"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "n^",
+                "query": "AC}",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -251,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Volume_110/11057-Exact_Sum/11057_PDF.md",
+                "file": "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11057_PDF"
+              "title": "Outline of 10170"
             }
           }
         ],
@@ -279,17 +270,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5c860e9deb6bd63d",
+  "active": "ec69f13001dfa5a7",
   "lastOpenFiles": [
+    "Untitled 7.md",
+    "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170.md",
+    "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170_PDF.md",
     "Problems/Volume_110/11057-Exact_Sum/11057.md",
-    "Problems/Volume_110/11057-Exact_Sum/11057_PDF.md",
-    "Problems/Volume_106/10642-Can_You_Solve_It/10642.md",
-    "Problems/Volume_100/10041-Vitos_Family/10041_PDF.md",
     "0_default/001_templater/UVA_Template.md.md",
+    "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170-(while).cpp",
+    "Problems/Volume_101/10110-Light_more_light/10110.md",
+    "Problems/Volume_002/299-Train_Swapping/299.md",
+    "Problems/Volume_002/291-The_House_Of_Santa_Claus/291_PDF.md",
+    "Problems/Volume_132/13279-Divisors/13279_PDF.md",
+    "Problems/Volume_120/12015-Google_is_Feeling_Lucky/12015.md",
+    "Problems/Volume_120/12015-Google_is_Feeling_Lucky/12015_PDF.md",
+    "Problems/Volume_101/10189-Minesweeper/10189_PDF.md",
+    "Untitled 3.md",
+    "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170.png",
+    "CPE_properties.base",
+    "Problems/Volume_110/11057-Exact_Sum/11057_PDF.md",
+    "Problems/Volume_100/10041-Vitos_Family/10041_PDF.md",
+    "Problems/Volume_110/11057-Exact_Sum/11057-(brute_force).cpp",
+    "Problems/Volume_106/10642-Can_You_Solve_It/10642.md",
     "Problems/Volume_110/11057-Exact_Sum",
     "Leetcode_Daily",
     "test/main",
-    "CPE_properties.base",
     "test/20001.cpp",
     "Untitled 5.md",
     "2026-02-06.md",
@@ -301,24 +306,11 @@
     "Problems/Volume_013/1399",
     "Problems/Volume_013/1398",
     "Problems/Volume_013/1397",
-    "Problems/Volume_013/1396",
-    "Problems/Volume_013/1395",
-    "Problems/Volume_132/13279-Divisors/13279_PDF.md",
     "Problems/Volume_001/151-Power_Crisis/151.md",
     "Problems/Volume_003/302-Johns_trip/302_PDF.md",
     "Problems/Volume_007/714-Copying_Books/714.md",
     "Problems/Volume_123/12339-Help_Hermione/12339_PDF.md",
     "Problems/Volume_123/12339-Help_Hermione/12339.md",
-    "Problems/Volume_122/12250-Language_Detection/12250.md",
-    "Problems/Volume_001/106-Fermat_vs._Pythagoras/106_PDF.md",
-    "Untitled 4.md",
-    "0_default/000_readme/Untitled.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Problems/Volume_109/10954-Add_All/10954_PDF.md",
-    "Problems/Volume_002/272-TEX_Quotes/272.md",
-    "Untitled 6.md",
-    "math tran.md",
     "Problems/Volume_126/12627-Erratic_Expansion/balloon_example.png",
     "Problems/Volume_101/10189-Minesweeper/game_photo.png",
     "Problems/Volume_120/12015-Google_is_Feeling_Lucky/12015_sample_image.png",
@@ -326,7 +318,6 @@
     "Problems/Volume_001/151-Power_Crisis/151-1.png",
     "Problems/Volume_001/151-Power_Crisis/151-2.png",
     "Problems/151.png",
-    "CPE_2_star/10014-Simple_Calculations/10014.jpg",
     "Untitled.canvas"
   ]
 }

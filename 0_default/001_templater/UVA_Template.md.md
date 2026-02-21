@@ -16,17 +16,22 @@ title: <% probTitle %>
 cpe_rank: 
 exam_dates: []
 exam_numbers: []
-topics: []
+Algo/Data: []
 Ad_Hoc: []
+Topic: []
 solved: 0
 ---
 # Reference
 
 - 舊版本無 CPE 頁面保存
 - zero
-- pdf?
+- https://onlinejudge.org/external/101/10170.pdf
 - vjudge
 
 # 題解
+
+| Method        | $\color{Lime}{\text{AC}}$ |
+| ------------- | ------------------------- |
+| Brute force   | 120 ms                    |
 
 # I/O
