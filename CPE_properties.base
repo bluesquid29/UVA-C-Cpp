@@ -14,8 +14,12 @@ views:
       - exam_numbers
       - solved
       - Ad_Hoc
+      - Algo/Data
       - topics
+      - Topic
     sort:
+      - property: cpe_rank
+        direction: DESC
       - property: Ad_Hoc
         direction: DESC
       - property: status

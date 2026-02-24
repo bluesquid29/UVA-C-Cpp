@@ -5,6 +5,8 @@
     "tags": "tags",
     "exam_number": "multitext",
     "exam_numbers": "multitext",
-    "history": "text"
+    "history": "text",
+    "1-CPE_rank": "number",
+    "1-49_collection": "number"
   }
 }

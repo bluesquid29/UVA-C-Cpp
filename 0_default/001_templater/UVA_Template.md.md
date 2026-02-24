@@ -23,15 +23,14 @@ solved: 0
 ---
 # Reference
 
-- 舊版本無 CPE 頁面保存
 - zero
 - https://onlinejudge.org/external/101/10170.pdf
 - vjudge
 
 # 題解
 
-| Method        | $\color{Lime}{\text{AC}}$ |
-| ------------- | ------------------------- |
-| Brute force   | 120 ms                    |
-
+| Method              | $\color{Lime}{\text{AC}}$ | Time Complexity  |
+| ------------------- | ------------------------- | ---------------- |
+| brute force `while` | 50 ms                     | $O (\sqrt{ D })$ |
+| close form          | 0 ms                      | $O (1)$          |
 # I/O
