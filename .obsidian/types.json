@@ -7,6 +7,8 @@
     "exam_numbers": "multitext",
     "history": "text",
     "1-CPE_rank": "number",
-    "1-49_collection": "number"
+    "1-49_collection": "number",
+    "Contest_year": "number",
+    "Contestss": "number"
   }
 }

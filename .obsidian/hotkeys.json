@@ -16,5 +16,14 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "templater-obsidian:0_default/001_templater/github highlight.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
   ]
 }

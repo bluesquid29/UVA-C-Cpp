@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Volume_113/11364-Parking/11364_PDF.md",
+                "file": "Problems/Volume_113/11365-Copying_DNA/11365_PDF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11364_PDF"
+              "title": "11365_PDF"
             }
           },
           {
@@ -153,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time com",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Volume_113/11364-Parking/11364_PDF.md",
+                "file": "Problems/Volume_113/11365-Copying_DNA/11365_PDF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11364_PDF"
+              "title": "Outline of 11365_PDF"
             }
           }
         ],
@@ -286,19 +286,28 @@
   },
   "active": "2c1610768eacfb91",
   "lastOpenFiles": [
-    "Problems/Volume_113/11364-Parking/11364-(vector).cpp",
-    "Problems/Volume_113/11364-Parking/11364.md",
-    "Problems/Volume_113/11364-Parking/11364_PDF.md",
-    "Problems/Volume_126/12627-Erratic_Expansion/12627_PDF.md",
+    "Problems/Volume_113/11365-Copying_DNA/11365-(Claude_4.6).cpp",
+    "Problems/Volume_113/11365-Copying_DNA/11365.md",
     "Problems/Volume_132/13279-Divisors/13279_PDF.md",
+    "Problems/Volume_113/11364-Parking/11364.md",
+    "Untitled",
+    "C.md",
+    "Problems/Volume_113/11364-Parking/11364_PDF.md",
+    "Problems/Volume_113/11364-Parking/11364-(MAX_MIN).cpp",
+    "Problems/Volume_113/11365-Copying_DNA/11365_PDF.md",
+    "Problems/Volume_113/11363-Cuckoo_Hashing/11363.md",
+    "0_default/001_templater/github highlight.md",
+    "Problems/Volume_101/10110-Light_more_light/10110.md",
+    "Untitled 3.md",
+    "Problems/Volume_113/11363-Cuckoo_Hashing",
+    "Problems/Volume_113/11364-Parking/11364-(vector).cpp",
+    "Problems/Volume_126/12627-Erratic_Expansion/12627_PDF.md",
     "Problems/Volume_123/12339-Help_Hermione/12339_PDF.md",
     "Problems/Volume_122/12250-Language_Detection/12250.md",
     "CPE_properties.base",
     "Problems/Volume_115/11581-Grid_Successors/11581.md",
     "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170.md",
-    "C.md",
     "0_default/001_templater/UVA_Template.md.md",
-    "Problems/Volume_101/10110-Light_more_light/10110.md",
     "Problems/Volume_115/11581-Grid_Successors/Un-11581-2.cpp",
     "Problems/Volume_115/11581-Grid_Successors/Un-11581-1(bitmask).cpp",
     "Problems/Volume_115/11581-Grid_Successors/11581_PDF.md",
@@ -306,10 +315,6 @@
     "Problems/Volume_115/11581-Grid_Successors",
     "Problems/Volume_115/11599",
     "Problems/Volume_115/11598",
-    "Problems/Volume_115/11597",
-    "Problems/Volume_115/11596",
-    "Problems/Volume_115/11595",
-    "Problems/Volume_115/11594",
     "Untitled 7.md",
     "Problems/Volume_120/12004-Bubble_Sort/12004.md",
     "Problems/Volume_120/12004-Bubble_Sort/12004_PDF.md",
@@ -317,11 +322,6 @@
     "b目錄(hackmd stage).md",
     "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170_PDF.md",
     "Problems/Volume_110/11057-Exact_Sum/11057.md",
-    "Problems/Volume_002/299-Train_Swapping/299.md",
-    "Problems/Volume_002/291-The_House_Of_Santa_Claus/291_PDF.md",
-    "Problems/Volume_120/12015-Google_is_Feeling_Lucky/12015.md",
-    "Problems/Volume_120/12015-Google_is_Feeling_Lucky/12015_PDF.md",
-    "Problems/Volume_101/10189-Minesweeper/10189_PDF.md",
     "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170.png",
     "Problems/Volume_013/1353/63885997.jpg",
     "Problems/Volume_013/1313/63885997.jpg",
