@@ -6,26 +6,29 @@ filters:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.hasProperty("Contest")
     order:
       - file.name
       - title
+      - Contest
+      - Contest_year
+      - Contest_problem
+      - Kattis_difficulty_upper
+      - Chapter
+      - Topic
+      - Subtopic
       - cpe_rank
       - exam_dates
       - exam_numbers
       - solved
-      - Ad_Hoc
-      - Algo/Data
-      - topics
-      - Topic
-      - Subtopic
-      - Kattis_difficulty_upper
-      - Contest
-      - Contest_year
-      - Contest_problem
     sort:
       - property: exam_number
         direction: ASC
     columnSize:
       note.title: 144
-      note.exam_dates: 199
       note.Contest_problem: 152
+      note.Chapter: 208
+      note.Subtopic: 403
+      note.exam_dates: 199

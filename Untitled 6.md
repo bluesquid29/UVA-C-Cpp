@@ -1,4 +1,4 @@
-4. [ ] [[math tran]]
+4. [ ] [[math tra]]
 5. [ ] dfdfd
 
 | 1233        | 213 |

@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "99368a03ca97c887",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "e1d06bf30a7a5cb1",
             "type": "leaf",
             "pinned": true,
@@ -23,22 +35,9 @@
             }
           },
           {
-            "id": "8439a94e117410f2",
+            "id": "12ab519caeaa7e5b",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-12-29.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-29"
-            }
-          },
-          {
-            "id": "06c8f922389e6c7b",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,82 +45,128 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "UVA_Template.md"
             }
           },
           {
-            "id": "179a99dad75e13d9",
+            "id": "06c8f922389e6c7b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0_default/001_templater/ncpc.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ncpc"
+            }
+          },
+          {
+            "id": "5a8cc82ed42e5f70",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Collegiate Programming Contest/Nordic/NCPC.base",
+                "viewName": "Table"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "NCPC"
+            }
+          },
+          {
+            "id": "ad680b3344779c7c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Collegiate Programming Contest/Nordic/NCPC 2009 problem.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "NCPC 2009 problem"
+            }
+          },
+          {
+            "id": "4ad26aacf4844e49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Volume_101/10110-Light_more_light/10110.md",
+                "file": "CSES/Introductory Problems/Number Spiral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10110"
+              "title": "Number Spiral"
             }
           },
           {
-            "id": "a09743636f6aac28",
+            "id": "86848bd4b231c64c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "10190"
             }
           },
           {
-            "id": "ec69f13001dfa5a7",
+            "id": "b400b505a39aff63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Volume_132/13279-Divisors/13279_PDF.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13279_PDF"
-            }
-          },
-          {
-            "id": "2c1610768eacfb91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/Volume_113/11365-Copying_DNA/11365_PDF.md",
+                "file": "todo or leave it.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11365_PDF"
+              "title": "todo or leave it"
             }
           },
           {
-            "id": "8b978d9850105a30",
+            "id": "0bb82bdb0ed703fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C.md",
+                "file": "CSES/Introductory Problems/Creating Strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C"
+              "title": "Creating Strings"
+            }
+          },
+          {
+            "id": "5e85317e1133acf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Volume_113/11362-Phone_List/11362.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11362"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -153,7 +198,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"1-49_collection\":]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1db6cd216c6e9d0c",
@@ -194,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPE_2_star/967-Circular/967.md",
+                "file": "Collegiate Programming Contest/Nordic/NCPC.base",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +249,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 967"
+              "title": "Backlinks for NCPC"
             }
           },
           {
@@ -213,12 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPE_2_star/967-Circular/967.md",
+                "file": "Collegiate Programming Contest/Nordic/NCPC.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 967"
+              "title": "Outgoing links from NCPC"
             }
           },
           {
@@ -242,7 +287,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "frequencyReverse",
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -256,13 +301,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Volume_113/11365-Copying_DNA/11365_PDF.md",
-                "followCursor": false,
+                "file": "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11365_PDF"
+              "title": "Outline of 10190"
             }
           }
         ],
@@ -270,7 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,54 +329,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c1610768eacfb91",
+  "active": "86848bd4b231c64c",
   "lastOpenFiles": [
-    "Problems/Volume_113/11365-Copying_DNA/11365-(Claude_4.6).cpp",
-    "Problems/Volume_113/11365-Copying_DNA/11365.md",
-    "Problems/Volume_132/13279-Divisors/13279_PDF.md",
-    "Problems/Volume_113/11364-Parking/11364.md",
-    "Untitled",
-    "C.md",
-    "Problems/Volume_113/11364-Parking/11364_PDF.md",
-    "Problems/Volume_113/11364-Parking/11364-(MAX_MIN).cpp",
-    "Problems/Volume_113/11365-Copying_DNA/11365_PDF.md",
-    "Problems/Volume_113/11363-Cuckoo_Hashing/11363.md",
-    "0_default/001_templater/github highlight.md",
-    "Problems/Volume_101/10110-Light_more_light/10110.md",
-    "Untitled 3.md",
-    "Problems/Volume_113/11363-Cuckoo_Hashing",
-    "Problems/Volume_113/11364-Parking/11364-(vector).cpp",
-    "Problems/Volume_126/12627-Erratic_Expansion/12627_PDF.md",
-    "Problems/Volume_123/12339-Help_Hermione/12339_PDF.md",
-    "Problems/Volume_122/12250-Language_Detection/12250.md",
-    "CPE_properties.base",
-    "Problems/Volume_115/11581-Grid_Successors/11581.md",
-    "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170.md",
+    "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190.cpp",
+    "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190_PDF.md",
+    "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190.md",
+    "Problems/Volume_116/11699-Rooks/11699.md",
     "0_default/001_templater/UVA_Template.md.md",
-    "Problems/Volume_115/11581-Grid_Successors/Un-11581-2.cpp",
-    "Problems/Volume_115/11581-Grid_Successors/Un-11581-1(bitmask).cpp",
-    "Problems/Volume_115/11581-Grid_Successors/11581_PDF.md",
-    "Problems/Volume_113/11349-Symmetric_Matrix/11349.md",
-    "Problems/Volume_115/11581-Grid_Successors",
-    "Problems/Volume_115/11599",
-    "Problems/Volume_115/11598",
-    "Untitled 7.md",
-    "Problems/Volume_120/12004-Bubble_Sort/12004.md",
-    "Problems/Volume_120/12004-Bubble_Sort/12004_PDF.md",
-    "a目錄(first stage).md",
-    "b目錄(hackmd stage).md",
-    "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170_PDF.md",
-    "Problems/Volume_110/11057-Exact_Sum/11057.md",
+    "CSES/Introductory Problems/Number Spiral.md",
+    "CPE_properties.base",
+    "Problems/Volume_113/11362-Phone_List/11362.md",
+    "CSES/Introductory Problems/Creating Strings.md",
+    "CSES/Sorting and Searching/Distinct Numbers.md",
+    "0_default/001_templater/ncpc.md",
+    "Collegiate Programming Contest/Nordic/NCPC.base",
+    "Collegiate Programming Contest/Nordic/NCPC 2009 problem.pdf",
+    "CSES/Sorting and Searching",
+    "Problems/Volume_112/11286-Conformity/11286.md",
+    "Problems/Volume_112/11286-Conformity",
+    "Problems/Volume_112/11299",
+    "Problems/Volume_112/11298",
+    "Problems/Volume_112/11297",
+    "Problems/Volume_112/11296",
+    "Problems/Volume_112/11295",
+    "todo or leave it.md",
+    "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again/10276.md",
+    "2006-06-26.md",
+    "Problems/Volume_009/991-Safe_Salutations/991_PDF.md",
+    "Problems/Volume_009/991-Safe_Salutations/991.md",
+    "Problems/Volume_009/991-Safe_Salutations/n=3_image.png",
+    "math tra.md",
+    "Problems/Volume_009/993-Product_of_digits/993.md",
+    "Problems/Volume_113/11364-Parking/11364.md",
+    "Problems/Volume_113/11364-Parking/11364_PDF.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Problems/Volume_003/356-Square_Pegs_And_Round_Holes/356.md",
+    "Problems/Volume_003/356-Square_Pegs_And_Round_Holes/Vertical_Scan_complete.gif",
+    "Problems/Volume_003/356-Square_Pegs_And_Round_Holes/Vertical_Scan_segment.gif",
+    "Problems/Volume_003/356-Square_Pegs_And_Round_Holes/IMG_4814-ezgif.com-crop.gif",
+    "Problems/Volume_116/11689-Soda_Surpler/11689.md",
     "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170.png",
     "Problems/Volume_013/1353/63885997.jpg",
     "Problems/Volume_013/1313/63885997.jpg",
     "Problems/Volume_126/12627-Erratic_Expansion/balloon_example.png",
     "Problems/Volume_101/10189-Minesweeper/game_photo.png",
     "Problems/Volume_120/12015-Google_is_Feeling_Lucky/12015_sample_image.png",
-    "Problems/Volume_120/12015-Google_is_Feeling_Lucky/12015_sample_image2.png",
-    "Problems/Volume_001/151-Power_Crisis/151-1.png",
-    "Problems/Volume_001/151-Power_Crisis/151-2.png",
-    "Problems/151.png",
     "Untitled.canvas"
   ]
 }

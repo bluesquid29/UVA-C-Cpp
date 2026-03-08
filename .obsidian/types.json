@@ -8,7 +8,15 @@
     "history": "text",
     "1-CPE_rank": "number",
     "1-49_collection": "number",
-    "Contest_year": "number",
-    "Contestss": "number"
+    "Contest_year": "multitext",
+    "Contestss": "number",
+    "Kattis_difficulty": "number",
+    "Kattis_difficulty_upper": "text",
+    "cpe_rank": "number",
+    "Contest_problem": "multitext",
+    "Topic": "text",
+    "Subtopic": "text",
+    "exam_dates": "multitext",
+    "CSES_ID": "number"
   }
 }
