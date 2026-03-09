@@ -115,12 +115,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190.md",
-                "mode": "source",
+                "file": "Problems/Volume_101/10198-Counting/10198_PDF.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10190"
+              "title": "10198_PDF"
             }
           },
           {
@@ -163,6 +163,20 @@
               },
               "icon": "lucide-file",
               "title": "11362"
+            }
+          },
+          {
+            "id": "fdcdef97e3c2f447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Volume_101/10198-Counting/10198.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10198"
             }
           }
         ],
@@ -301,13 +315,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190.md",
+                "file": "Problems/Volume_101/10198-Counting/10198_PDF.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10190"
+              "title": "Outline of 10198_PDF"
             }
           }
         ],
@@ -331,9 +345,21 @@
   },
   "active": "86848bd4b231c64c",
   "lastOpenFiles": [
-    "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190.cpp",
-    "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190_PDF.md",
+    "Problems/Volume_101/10198-Counting/10198.md",
+    "Problems/Volume_101/10198-Counting/10198_PDF.md",
+    "CSES/Fibonacci_Numbers.cpp",
     "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190.md",
+    "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190_PDF.md",
+    "Problems/Volume_126/12627-Erratic_Expansion/12627_PDF.md",
+    "Problems/Volume_113/11364-Parking/11364_PDF.md",
+    "Problems/Volume_113/11364-Parking/11364.md",
+    "Collegiate Programming Contest/Nordic/NCPC.base",
+    "0_default/001_templater/ncpc.md",
+    "Problems/Volume_101/10189-Minesweeper/10189_PDF.md",
+    "Problems/Volume_101/10191-Longest Nap/10191.md",
+    "Problems/Volume_101/10191-Longest Nap/10191_PDF.md",
+    "Code accept but NO explain.md",
+    "Problems/Volume_101/10190-Divide, But Not Quite Conquer/10190.cpp",
     "Problems/Volume_116/11699-Rooks/11699.md",
     "0_default/001_templater/UVA_Template.md.md",
     "CSES/Introductory Problems/Number Spiral.md",
@@ -341,8 +367,6 @@
     "Problems/Volume_113/11362-Phone_List/11362.md",
     "CSES/Introductory Problems/Creating Strings.md",
     "CSES/Sorting and Searching/Distinct Numbers.md",
-    "0_default/001_templater/ncpc.md",
-    "Collegiate Programming Contest/Nordic/NCPC.base",
     "Collegiate Programming Contest/Nordic/NCPC 2009 problem.pdf",
     "CSES/Sorting and Searching",
     "Problems/Volume_112/11286-Conformity/11286.md",
@@ -350,8 +374,6 @@
     "Problems/Volume_112/11299",
     "Problems/Volume_112/11298",
     "Problems/Volume_112/11297",
-    "Problems/Volume_112/11296",
-    "Problems/Volume_112/11295",
     "todo or leave it.md",
     "Problems/Volume_102/10276-Hanoi_Tower_Troubles_Again/10276.md",
     "2006-06-26.md",
@@ -359,18 +381,9 @@
     "Problems/Volume_009/991-Safe_Salutations/991.md",
     "Problems/Volume_009/991-Safe_Salutations/n=3_image.png",
     "math tra.md",
-    "Problems/Volume_009/993-Product_of_digits/993.md",
-    "Problems/Volume_113/11364-Parking/11364.md",
-    "Problems/Volume_113/11364-Parking/11364_PDF.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Problems/Volume_003/356-Square_Pegs_And_Round_Holes/356.md",
     "Problems/Volume_003/356-Square_Pegs_And_Round_Holes/Vertical_Scan_complete.gif",
     "Problems/Volume_003/356-Square_Pegs_And_Round_Holes/Vertical_Scan_segment.gif",
     "Problems/Volume_003/356-Square_Pegs_And_Round_Holes/IMG_4814-ezgif.com-crop.gif",
-    "Problems/Volume_116/11689-Soda_Surpler/11689.md",
     "Problems/Volume_101/10170-The_Hotel_with_Infinite_Rooms/10170.png",
     "Problems/Volume_013/1353/63885997.jpg",
     "Problems/Volume_013/1313/63885997.jpg",
