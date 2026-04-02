@@ -1,0 +1,45 @@
+filters:
+  and:
+    - file.fullname.endsWith("md")
+    - file.folder.startsWith("Problems")
+    - "!Title.isEmpty()"
+    - "!一星題選集編號.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - 完成狀態
+      - file.name
+      - Title
+      - 一星題選集
+      - 一星題選集編號
+      - CPE最近考試
+      - 最近考試題號
+      - CPE考試次數
+      - Chapter
+      - Subchapter
+      - Topic
+      - Contest
+      - Contest_year
+      - Contest_problem
+      - Kattis_Difficulty_Up
+    sort:
+      - property: CPE最近考試
+        direction: DESC
+      - property: 一星題選集編號
+        direction: DESC
+      - property: CPE考試題號
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.完成狀態: 57
+      note.Title: 179
+      note.一星題選集: 129
+      note.一星題選集編號: 35
+      note.CPE最近考試: 121
+      note.最近考試題號: 113
+      note.CPE考試次數: 110
+      note.Chapter: 137
+      note.Contest_problem: 160
+      note.Kattis_Difficulty_Up: 51

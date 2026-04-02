@@ -1,5 +1,5 @@
 ---
 CSES_group: Introductory Problems
-title: Creating Strings
+Title: Creating Strings
 CSES_ID: 1622
 ---

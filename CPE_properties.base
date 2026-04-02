@@ -22,10 +22,17 @@ views:
       - Contest
       - Contest_year
       - Contest_problem
+      - CPE最近考試
     sort:
+      - property: CPE最近考試
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: exam_dates
+        direction: ASC
       - property: exam_number
         direction: ASC
     columnSize:
-      note.title: 144
       note.exam_dates: 199
+      note.Topic: 301
       note.Contest_problem: 152

@@ -60,3 +60,42 @@ first and last.
 | **Close walk**     | allowed                              | allowed                                | yes                                                      | no                                                    |
 | **Circuit**        | no                                   | allowed                                | yes                                                      | yes                                                   |
 | **Simple circuit** | no                                   | first and last only                    | yes                                                      | yes                                                   |
+
+
+Takahashi is managing the number of trees in his garden. Initially, there are no trees in the garden.
+
+Q queries are given in order. Each query is one of the following two types. Immediately after processing each query, output the number of trees currently in the garden.
+
+- `1 h` : Add one new tree of height h to the garden.
+- `2 h` : Remove all trees currently in the garden whose height is at most h.
+Determine whether there exists a weighted undirected tree with N vertices satisfying the following condition.
+
+- For any two integers i and j with 1≤i<j≤N, the distance between vertices i and j is Ai,j​.
+
+Here, the distance between vertices i and j is defined as the sum of the weights of the edges on the unique simple path connecting these two vertices.
+
+
+### Sample Input 1
+
+```
+4 4
+1 2
+2 3
+3 4
+1 3
+```
+
+### Sample Output 1
+
+```
+1
+1
+2
+-1
+```
+
+Immediately after processing queries 1,2,3, a valid coloring exists.
+
+For example, immediately after processing the third query, vertices 1,2,3,4 can be colored `white`, `black`, `white`, `black`, respectively. No valid coloring with fewer `black` vertices exists, so output 2.
+
+Immediately after processing the fourth query, no valid coloring exists. Thus, output −1.
